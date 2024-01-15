@@ -31,7 +31,7 @@ basin <- st_make_valid(basin)
 basin_centroid <- st_coordinates(st_centroid(basin))
 
 # Specify the path to your Excel file
-excel_file_path <- "C:/Users/14037/OneDrive - University of Calgary/Documents/ENCI_570/TM_PHES_code/gauge_location_year.xlsx"
+excel_file_path <- "C:/Users/14037/OneDrive - University of Calgary/Documents/ENCI_570/TM_PHES_code/gauge_location_raw.xlsx"
 
 # Read the Excel file into a data frame
 excel_data <- read_excel(excel_file_path)
