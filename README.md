@@ -13,7 +13,7 @@
 
 ## WEATHERCAN data and GAUGE data notebooks:
 - EDA.ipynb 
-	- (this notebook has all the work for exploratory data analysis of the weathercan data and the hydrological (gauge)data.
+	- this notebook has all the work for exploratory data analysis of the weathercan data and the hydrological (gauge) data
 	- It replicates a lot of the graphs that hatch created
 	- shows correlation between stations
 
