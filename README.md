@@ -11,8 +11,8 @@ The report details the final design choices and findings from the TM-PHES projec
 ### EMDNA Data and Climate Change Scenario Notebooks
 - **delta_analysis.ipynb**: Main notebook for analyzing historical and future climate change scenarios concerning temperature, precipitation, evaporation, and flow.
 - **ET_penman.ipynb**: Updates historical and future scenario data with calculated daily evaporation rates and uploads new files for each realization.
-- **gridded_data_trange.ipynb**: Transforms and uploads historical and future scenario trange data into the correct format.
 - **gridded_data.ipynb**: Transforms and uploads the historical and future scenario temperature and precipitation data into the correct format.
+- **gridded_data_trange.ipynb**: Transforms and uploads historical and future scenario trange data into the correct format.
 - **storage_analysis.ipynb**: Analysis the storage output and flow from HEC-HMS for the historical and future scenario data.
 
 ### WEATHERCAN and GAUGE Data Notebooks
